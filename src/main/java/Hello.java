@@ -4,6 +4,6 @@ public class Hello {
 
         System.out.println("start git");
 
-        System.out.println("h");
+        System.out.println("ha-ha");
     }
 }
